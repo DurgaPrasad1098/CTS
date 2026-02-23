@@ -1,8 +1,7 @@
 //
 //  CreateGroupsViewController.swift
 //  Connectly
-//
-//  Created by SPSOFT on 19/11/25.
+
 //
 import UIKit
 import MBProgressHUD
