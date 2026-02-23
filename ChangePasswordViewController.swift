@@ -2,7 +2,7 @@
 //  ChangePasswordViewController.swift
 //  Connectly
 //
-//  Created by SPSOFT on 09/12/25.
+
 //
 
 import UIKit
